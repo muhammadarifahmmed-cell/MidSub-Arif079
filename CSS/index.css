@@ -1,0 +1,938 @@
+
+*{
+    margin: 0;
+    border: 0;
+}
+
+
+.jaro-<uniquifier> {
+  font-family: "Jaro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.inter-<uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.TotalContent{
+    width: 100%;
+    height: ;
+    background-color: #f5f5f5;
+}
+
+
+
+
+
+
+
+
+
+.TopBar{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(255, 255, 255);
+}
+.menubar{
+    width: 1475px;
+    height: 75px;
+    background-color: ;
+    margin: auto;
+    display: flex;
+}
+.menubar h1{
+    font-family: "Jaro", sans-serif;
+    padding-top: 13px;
+    font-size: 36px;
+    color: #007F29;
+}
+.menubar ul{
+    margin-left: 200px;    
+}
+.menubar li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 20px;
+
+}
+.menubar li a{
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    color: #1f1d1d;
+    margin-right: 80px;
+}
+.menubar button{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    
+    width: 160px;
+    height: 40px;
+    color: #ffffff;
+    background-color: #B1E82D;
+    border-radius: 6px;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+.HeadBanner{
+    width: 100%;
+    height: 650px;
+    background-color: #ffffff;
+    background-image: url(../Image/Home/Group\ 33.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.BannedText{
+    width: 1475px;
+    height: 500px;
+    background-color:  ;
+    margin: auto;
+}
+.BannedText h1{
+    font-family: "Inter", sans-serif;
+    font-size: 54px;
+    padding-top: 150px;
+        color: #ffffff;
+}
+.BannedText p{
+    font-family: "Inter", sans-serif;
+    font-size: 30px;
+    padding-top: 24px;
+    padding-bottom: 100px;
+    color: #ffffff;
+}
+.BannedText button{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    width: 220px;
+    height: 56px;
+    color: #ffffff;
+    background-color: #007F29;
+    border-radius: 12px;
+    margin-right: 20px;
+    
+}
+.HCard{
+    width: 511px;
+    height: 372px;
+    background-image: url(../Image/Home/Banner\ Card\ .png);
+    margin-left: 950px;
+    margin-top: -340px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.LookingFor{
+    width: 1475px;
+    height: 300px;
+    background-color: ;
+    background-size: cover;
+    margin: auto;
+}  
+    
+.LookingFor h1 {
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    padding-top: 50px;
+    color: #1f1c1c;
+}
+.AHO{
+    width: 1480px;
+    height: 115px;
+    background-image: url(../Image/Home/Group\ 50.png);
+    margin-top: 25px;    
+}
+
+
+
+
+
+
+
+
+
+
+.Featured{
+    width: 100%;
+    height: 650px;
+    background-color: rgb(255, 255, 255);
+}
+.Featured1{
+    width: 1480px;
+    height: 650px;
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    margin: auto;
+}
+.Featuredtext {
+    display: inline-block;
+    font-family: "Inter", sans-serif;
+}
+.Featured h1 {
+    font-size: 24px;
+    padding-top: 50px;
+    color: #1f1c1c;
+}
+.Featured p{
+    font-size: 20px;
+    padding-top: 50px;
+    color: #309c0f;
+    margin-left: 1370px;
+    margin-top: -75px;
+}
+.Featured4card{
+    width: 1480px;
+    height: 490px;
+    background-color:;
+    margin-top: 25px;
+    display: flex;
+}
+.Featured h2{
+    font-size: 20px;
+    color: #353636;
+}
+
+
+.Featured4card1{
+    width: 345px;
+    height: 490px;
+    background-color: rgb(248, 248, 248);
+    margin-right: 32px;
+}
+.Featured4card1img{
+    width: 345px;
+    height: 200px;
+    background-color: ;
+    background-image: url(../Image/Home/Group\ 37.png);
+}
+.Featured4card1text{
+    width: 345px;
+    height: 290px;
+    background-color: ;    
+}
+.Ftag{
+    width: 218px;
+    height: 24px;
+    background-color: ;
+    margin-left: 20px;
+    margin: 20px;
+    
+}
+.Ftext{
+    width: 330px;
+    height: 130px;
+    background-color: ;
+    font-family: "Inter", sans-serif;
+    margin-top: 20px;
+    margin-left: 24px;
+    color: #636363;
+}
+.Featured button{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    width: 300px;
+    height: 45px;
+    color: #1f1d1d;
+    background-color: #B1E82D;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+
+
+
+.Featured4card2{
+    width: 345px;
+    height: 490px;
+    background-color: rgb(248, 248, 248);
+    margin-right: 32px;
+}
+.Featured4card2img{
+    width: 345px;
+    height: 200px;
+    background-color: ;
+    background-image: url(../Image/Home/Group\ 38.png);
+}
+.Featured4card2text{
+    width: 345px;
+    height: 290px;
+    background-color: ;    
+}
+.Ftag{
+    width: 218px;
+    height: 24px;
+    background-color: ;
+    margin-left: 20px;
+    margin: 20px;
+    
+}
+.Ftext{
+    width: 330px;
+    height: 130px;
+    background-color: ;
+    font-family: "Inter", sans-serif;
+    margin-top: 20px;
+    margin-left: 24px;
+    color: #474747;
+}
+.Featured button{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    width: 300px;
+    height: 45px;
+    color: #1f1d1d;
+    background-color: #B1E82D;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+
+
+
+
+.Featured4card3{
+    width: 345px;
+    height: 490px;
+    background-color: rgb(248, 248, 248);
+    margin-right: 32px;
+}
+.Featured4card3img{
+    width: 345px;
+    height: 200px;
+    background-color: ;
+    background-image: url(../Image/Home/Group\ 39.png);
+}
+.Featured4card3text{
+    width: 345px;
+    height: 290px;
+    background-color: ;    
+}
+.Ftag{
+    width: 218px;
+    height: 24px;
+    background-color: ;
+    margin-left: 20px;
+    margin: 20px;
+    
+}
+.Ftext{
+    width: 330px;
+    height: 130px;
+    background-color: ;
+    font-family: "Inter", sans-serif;
+    margin-top: 20px;
+    margin-left: 24px;
+    color: #474747;
+}
+.Featured button{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    width: 300px;
+    height: 45px;
+    color: #1f1d1d;
+    background-color: #B1E82D;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+
+
+
+.Featured4card4{
+    width: 345px;
+    height: 490px;
+    background-color: rgb(248, 248, 248);
+    margin-right: 32px;
+}
+.Featured4card4img{
+    width: 345px;
+    height: 200px;
+    background-color: ;
+    background-image: url(../Image/Home/Group\ 40.png);
+}
+.Featured4card4text{
+    width: 345px;
+    height: 290px;
+    background-color: ;    
+}
+.Ftag{
+    width: 218px;
+    height: 24px;
+    background-color: ;
+    margin-left: 20px;
+    margin: 20px;
+    
+}
+.Ftext{
+    width: 330px;
+    height: 130px;
+    background-color: ;
+    font-family: "Inter", sans-serif;
+    margin-top: 20px;
+    margin-left: 24px;
+    color: #474747;
+}
+.Featured button{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    width: 300px;
+    height: 45px;
+    color: #1f1d1d;
+    background-color: #B1E82D;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+.Trending{
+    width: 100%;
+    height: 550px;
+    background-color: #f5f5f5;
+}
+.Trending1{
+    width: 1480px;
+    height: 500px;
+    background-color: #f5f5f5;
+    background-size: cover;
+    margin: auto;
+}
+.TrendingText {
+    display: inline-block;
+    font-family: "Inter", sans-serif;
+}
+.TrendingText h1 {
+    font-size: 24px;
+    padding-top: 50px;
+    color: #1f1c1c;
+}
+.TrendingText p{
+    font-size: 20px;
+    padding-top: 50px;
+    color: #309c0f;
+    margin-left: 1370px;
+    margin-top: -75px;
+}
+
+
+
+.TrendingCard{
+    width: 1480px;
+    height: 490px;
+    background-color: #f5f5f5;
+    margin-top: 25px;
+    display: flex;
+}
+
+
+.TrendingCard0{
+    width: 1480px;
+    height: 163px;
+    background-color: ;
+    margin-top: ;
+    display: flex;
+}
+
+
+.TrendingCard1{
+    width: 478px;
+    height: 163px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+.TrendingCard1Img{
+    width: 224px;
+    height: 163px;
+    background-color:  ;
+}
+.TrendingCard1Text{
+    font-family: "Inter", sans-serif;
+    width: 250px;
+    height: 130px;
+    background-color: ;
+    margin: 20px;
+}
+.TrendingCard1Text button{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    width: 215px;
+    height: 40px;
+    color: #1f1d1d;
+    background-color: #B1E82D;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+
+
+.TrendingCard2{
+    width: 480px;
+    height: 163px;
+    background-color: rgb(49, 150, 58);
+    margin-left: 25px; 
+}
+.TrendingCard2{
+    width: 478px;
+    height: 163px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+.TrendingCard2Img{
+    width: 224px;
+    height: 163px;
+    background-color: ;
+}
+.TrendingCard2Text{
+    font-family: "Inter", sans-serif;
+    width: 250px;
+    height: 130px;
+    background-color: ;
+    margin: 20px;
+}
+.TrendingCard2Text button{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    width: 215px;
+    height: 40px;
+    color: #1f1d1d;
+    background-color: #B1E82D;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+
+.TrendingCard3{
+    width: 480px;
+    height: 163px;
+    background-color: rgb(49, 150, 58);
+    margin-left: 25px; 
+}
+
+.TrendingCard3{
+    width: 478px;
+    height: 163px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+.TrendingCard3Img{
+    width: 224px;
+    height: 163px;
+    background-color: ;
+}
+.TrendingCard3Text{
+    font-family: "Inter", sans-serif;
+    width: 250px;
+    height: 130px;
+    background-color: ;
+    margin: 20px;
+}
+.TrendingCard3Text button{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    width: 215px;
+    height: 40px;
+    color: #1f1d1d;
+    background-color: #B1E82D;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+
+
+
+
+.TrendingCard00{
+    width: 1480px;
+    height: 163px;
+    background-color: ;
+    margin-top: 190px;
+    margin-left: -1480px ;
+    display: flex;
+}
+
+
+.TrendingCard4{
+    width: 480px;
+    height: 163px;
+    background-color: rgb(49, 150, 58);
+    margin-left: ; 
+}
+.TrendingCard4{
+    width: 478px;
+    height: 163px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+.TrendingCard4Img{
+    width: 224px;
+    height: 163px;
+    background-color: ;
+}
+.TrendingCard4Text{
+    font-family: "Inter", sans-serif;
+    width: 250px;
+    height: 130px;
+    background-color: ;
+    margin: 20px;
+}
+.TrendingCard4Text button{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    width: 215px;
+    height: 40px;
+    color: #1f1d1d;
+    background-color: #B1E82D;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+
+.TrendingCard5{
+    width: 480px;
+    height: 163px;
+    background-color: rgb(49, 150, 58);
+    margin-left: 25px; 
+}
+.TrendingCard5{
+    width: 478px;
+    height: 163px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+.TrendingCard5Img{
+    width: 224px;
+    height: 163px;
+    background-color: ;
+}
+.TrendingCard5Text{
+    font-family: "Inter", sans-serif;
+    width: 250px;
+    height: 130px;
+    background-color: ;
+    margin: 20px;
+}
+.TrendingCard5Text button{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    width: 215px;
+    height: 40px;
+    color: #1f1d1d;
+    background-color: #B1E82D;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+
+.TrendingCard6{
+    width: 480px;
+    height: 163px;
+    background-color: rgb(49, 150, 58);
+    margin-left: 25px; 
+}
+.TrendingCard6{
+    width: 478px;
+    height: 163px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+.TrendingCard6Img{
+    width: 224px;
+    height: 163px;
+    background-color: ;
+}
+.TrendingCard6Text{
+    font-family: "Inter", sans-serif;
+    width: 250px;
+    height: 130px;
+    background-color: ;
+    margin: 20px;
+}
+.TrendingCard6Text button{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    width: 215px;
+    height: 40px;
+    color: #1f1d1d;
+    background-color: #B1E82D;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.CAT{
+    width: 100%;
+    height: 350px;
+    background-color: #f5f5f5;
+}
+.Cat1{
+    width: 1480px;
+    height: 265px;
+    background-image: url(../Image/Home/CTA.png);
+    background-size: cover;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+
+}
+.CartText{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    width: 1000px;
+    height: 40px;
+    color: #ffffff;
+    background-size: cover;
+    text-align: center;
+    margin: auto;
+}
+.CartText button{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    width: 250px;
+    height: 45px;
+    color: #161515;
+    background-color: #B1E82D;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+.CartText p{
+    font-size: 24px;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Footer{
+    width: 100%;
+    height: 310px;
+    background-color: #ffffff;
+}
+.Footer0{
+    width: 1480px;
+    height: 310px;
+    background-color: #d15353;
+    margin: auto;
+    display: flex;
+}
+
+
+.Footr01{
+    width: 1000px;
+    height: 310px;
+    background-color: #ffffff;
+    
+}
+.Footr01 h1{
+    font-family: "Jaro", sans-serif;
+    padding-top: 30px;
+    font-size: 36px;
+    color: #007F29;
+    
+}
+.Footr01 ul{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    color: #353636;
+
+}
+.Footr01 li {
+    list-style: none;
+    padding: 4px;
+    margin-top: 20px;
+}
+
+
+
+.Footr02{
+    width: 400px;
+    height: 310px;
+    background-color: #ffffff;
+    font-family: "Inter", sans-serif;
+    
+}
+.Footr02 h1{
+        padding-top: 50px;
+    font-size: 20px;
+    color: #424242;
+    
+}
+.Footr02 p{
+    padding: ;
+    font-size: 19px;
+    color: #4a4b4b;
+
+}
+.Footr02 li {
+    list-style: none;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+
+.Footr03{
+    width: 500px;
+    height: 310px;
+    background-color: #ffffff;
+    font-family: "Inter", sans-serif;
+    
+}
+.Footr03 h1{
+        padding-top: 50px;
+    font-size: 20px;
+    color: #424242;
+    
+}
+.Footr03 p{
+    padding: ;
+    font-size: 19px;
+    color: #4a4b4b;
+
+}
+.Footr03 li {
+    list-style: none;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+
+
+.Footr04{
+    width: 200px;
+    height: 310px;
+    background-color: #ffffff;
+    font-family: "Inter", sans-serif;
+    
+}
+.Footr04 h1{
+        padding-top: 50px;
+    font-size: 20px;
+    color: #424242;
+    
+}
+.Footr04 p{
+    padding: ;
+    font-size: 19px;
+    color: #4a4b4b;
+
+}
+.Footr04 li {
+    list-style: none;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+
+
+
+
+.Copyright{
+    width: 100%;
+    height: 50px;
+    background-color: #007F29;
+    margin: auto;
+}
+.Copyright0{
+    width: 1480px;
+    height: 50px;
+    background-color: ;
+    margin: auto;
+
+}
+.Copyright p{
+    color: #ffffff;
+    font-family: "Inter", sans-serif;
+    font: 12px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.CP{
+    width: 1480px;
+    height: 2000px;
+    background-color: #dbdbdb;
+    margin: auto;
+}
+.CP1{
+    width: 1000px;
+    height: 2000px;
+    background-color: #eec6c6;
+}
+.CP2{
+    width: 400px;
+    height: 2000px;
+    background-color: #c4e744;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
